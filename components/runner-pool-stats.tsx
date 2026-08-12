@@ -9,7 +9,7 @@ export function RunnerPoolStats() {
 
   const stats = [
     {
-      label: "TOTAL $RUNNER DROPPED",
+      label: "TOTAL $TITS DROPPED",
       value: formatNumber(POOL_STATS.totalDistributed),
       accent: true,
     },
@@ -61,7 +61,7 @@ export function RunnerPoolStats() {
           />
         </div>
         <p className="mt-2 font-mono text-xs text-muted-foreground">
-          {formatNumber(POOL_STATS.totalDistributed)} / {formatNumber(POOL_STATS.totalSupply)} $RUNNER
+          {formatNumber(POOL_STATS.totalDistributed)} / {formatNumber(POOL_STATS.totalSupply)} $TITS
         </p>
       </div>
     </section>

@@ -25,7 +25,7 @@ export function RunnerAccounts() {
             Distribution Accounts
           </h2>
           <p className="mt-1 font-mono text-xs text-muted-foreground">
-            pump.fun app users receiving the $RUNNER airdrop
+            pump.fun traders receiving the $TITS airdrop
           </p>
         </div>
         <span className="rounded-full border border-primary/40 bg-primary/10 px-3 py-1 font-mono text-xs font-bold text-primary">
@@ -40,7 +40,7 @@ export function RunnerAccounts() {
               <th scope="col" className="px-5 py-3 font-medium">#</th>
               <th scope="col" className="px-5 py-3 font-medium">Account</th>
               <th scope="col" className="px-5 py-3 font-medium">Wallet</th>
-              <th scope="col" className="px-5 py-3 text-right font-medium">$RUNNER</th>
+              <th scope="col" className="px-5 py-3 text-right font-medium">$TITS</th>
               <th scope="col" className="px-5 py-3 text-right font-medium">Status</th>
             </tr>
           </thead>

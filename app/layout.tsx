@@ -14,9 +14,9 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'RUNNER — Airdrop Distribution',
+  title: 'TITS — Airdrop Distribution',
   description:
-    'Everyone is trying to catch the next runner. You already got it in your wallet. Live $RUNNER airdrop distribution to pump.fun users.',
+    'Everyone loves tits. Trade on pump.fun even once and the $TITS airdrop is already yours. Live distribution dashboard.',
   generator: 'v0.app',
 }
 

@@ -7,7 +7,7 @@ export function RunnerOrderFlow() {
         Order Flow
       </h2>
       <p className="mt-1 font-mono text-xs text-muted-foreground">
-        Creator fees are swapped into $RUNNER and dropped to pump.fun holders.
+        Creator fees are swapped into $TITS and dropped to everyone who traded on pump.fun.
       </p>
 
       <ol className="mt-5 grid gap-3 md:grid-cols-4">

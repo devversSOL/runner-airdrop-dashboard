@@ -10,9 +10,9 @@ export function RunnerTicker() {
                 key={`${group}-${i}`}
                 className="flex items-center gap-2 px-4 font-mono text-sm font-bold tracking-widest text-primary"
               >
-                <span>$RUNNER</span>
+                <span>$TITS</span>
                 <span className="text-primary/40">/</span>
-                <span className="text-foreground/70">CATCH THE RUNNER</span>
+                <span className="text-foreground/70">EVERYONE LOVES TITS</span>
                 <span className="text-primary/40">/</span>
               </li>
             ))}

@@ -16,8 +16,8 @@ export function RunnerHeader() {
         <div className="flex items-center gap-3">
           <div className="relative h-12 w-12 overflow-hidden rounded-xl border border-primary/40 bg-primary/10">
             <Image
-              src="/runner-mascot.png"
-              alt="Runner mascot"
+              src="/tits-mascot.png"
+              alt="TITS mascot"
               fill
               className="object-cover"
               priority
@@ -29,12 +29,14 @@ export function RunnerHeader() {
         </div>
 
         <h1 className="text-balance text-5xl font-bold tracking-tight text-foreground md:text-7xl">
-          <span className="text-primary">RUNNER</span>
+          <span className="text-primary">TITS</span>
         </h1>
 
         <p className="max-w-2xl text-balance text-lg font-medium leading-relaxed text-muted-foreground md:text-xl">
-          Everyone is trying to catch the next runner.{" "}
-          <span className="text-foreground">You already got it in your wallet.</span>
+          Everyone loves tits.{" "}
+          <span className="text-foreground">
+            Trade on pump.fun even once and the $TITS airdrop is already yours.
+          </span>
         </p>
 
         <div className="flex items-center gap-2 rounded-full border border-border bg-card px-4 py-2">
@@ -43,7 +45,7 @@ export function RunnerHeader() {
             <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-primary" />
           </span>
           <span className="font-mono text-xs font-medium uppercase tracking-wider text-muted-foreground">
-            Distribution live · pump.fun users
+            Distribution live · pump.fun traders
           </span>
         </div>
       </div>

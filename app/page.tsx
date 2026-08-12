@@ -19,10 +19,10 @@ export default function Page() {
       <footer className="border-t border-border">
         <div className="mx-auto flex max-w-6xl flex-col items-center gap-2 px-4 py-8 text-center">
           <p className="font-mono text-sm font-bold tracking-widest text-primary">
-            $RUNNER
+            $TITS
           </p>
           <p className="font-mono text-xs text-muted-foreground">
-            Distributed to pump.fun users. Not financial advice.
+            Distributed to everyone who traded on pump.fun. Not financial advice.
           </p>
         </div>
       </footer>
