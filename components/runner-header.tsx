@@ -21,9 +21,9 @@ export function RunnerHeader() {
           className="relative aspect-square w-56 md:w-72"
           style={{
             maskImage:
-              "radial-gradient(circle at center, black 52%, transparent 70%)",
+              "radial-gradient(circle at center, black 48%, transparent 66%)",
             WebkitMaskImage:
-              "radial-gradient(circle at center, black 52%, transparent 70%)",
+              "radial-gradient(circle at center, black 48%, transparent 66%)",
           }}
         >
           <Image
