@@ -13,19 +13,18 @@ export function RunnerHeader() {
         aria-hidden="true"
       />
       <div className="relative mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 py-12 text-center md:py-16">
-        <div className="flex items-center gap-3">
-          <div className="relative h-12 w-12 overflow-hidden rounded-xl border border-primary/40 bg-primary/10">
-            <Image
-              src="/tits-mascot.png"
-              alt="TITS mascot"
-              fill
-              className="object-cover"
-              priority
-            />
-          </div>
-          <span className="rounded-full border border-primary/40 bg-primary/10 px-3 py-1 font-mono text-xs font-bold uppercase tracking-widest text-primary">
-            Airdrop Distribution
-          </span>
+        <span className="rounded-full border border-primary/40 bg-primary/10 px-3 py-1 font-mono text-xs font-bold uppercase tracking-widest text-primary">
+          Airdrop Distribution
+        </span>
+
+        <div className="relative aspect-[16/9] w-full max-w-md overflow-hidden rounded-3xl border border-primary/30 bg-white shadow-[0_0_60px_-15px_var(--color-primary)]">
+          <Image
+            src="/tits-logo.jpeg"
+            alt="TITS logo — pump.fun styled"
+            fill
+            className="object-contain p-4"
+            priority
+          />
         </div>
 
         <h1 className="text-balance text-5xl font-bold tracking-tight text-foreground md:text-7xl">
