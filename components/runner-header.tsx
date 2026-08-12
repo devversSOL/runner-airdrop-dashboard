@@ -17,20 +17,12 @@ export function RunnerHeader() {
           Airdrop Distribution
         </span>
 
-        <div
-          className="relative aspect-square w-56 md:w-72"
-          style={{
-            maskImage:
-              "radial-gradient(circle at center, black 48%, transparent 66%)",
-            WebkitMaskImage:
-              "radial-gradient(circle at center, black 48%, transparent 66%)",
-          }}
-        >
+        <div className="relative aspect-[16/9] w-full max-w-md overflow-hidden rounded-3xl border border-primary/30 bg-white shadow-[0_0_60px_-15px_var(--color-primary)]">
           <Image
-            src="/tits-logo-dark.png"
+            src="/tits-logo.jpeg"
             alt="TITS logo — pump.fun styled"
             fill
-            className="object-contain"
+            className="object-contain p-4"
             priority
           />
         </div>
